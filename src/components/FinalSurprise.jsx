@@ -33,10 +33,10 @@ const FinalSurprise = () => {
       </iframe>
       <motion.button 
         onClick={() => window.location.href = "https://wa.me/+918307339859?text=Hey!%20I%20just%20saw%20your%20surprise%20and%20I%20loved%20it!%20❤️"} 
-        className="px-8 py-4 rounded-xl shadow-lg transition-all duration-300 bg-green-500 text-white text-lg font-semibold hover:bg-green-600 hover:scale-105 active:scale-95 my-4"
+        className="px-6 py-2 rounded-xl shadow-lg transition-all duration-300 bg-pink-500 text-white text-lg font-semibold hover:bg-green-600 hover:scale-105 active:scale-95 my-4"
         whileHover={{ scale: 1.1 }}
       >
-        Was this special or should I try harder? 😉
+        Was this special or should I try harder? 😉 click me
       </motion.button>
     </div>
   );
