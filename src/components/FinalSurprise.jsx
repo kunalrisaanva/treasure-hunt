@@ -14,7 +14,7 @@ const FinalSurprise = () => {
   return (
     <div className="relative flex flex-col items-center justify-center h-screen text-center overflow-hidden">
       <div className="animated-bg"></div>
-      <motion.h1 className="text-4xl font-bold text-gray-200 font-[Poppins]">
+      <motion.h1 className="text-4xl font-bold text-gray-200 font-[Poppins] mt-1">
         🎁 Here's Your Surprise! 🎁
       </motion.h1>
       <motion.p
