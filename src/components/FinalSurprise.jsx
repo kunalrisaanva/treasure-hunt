@@ -33,7 +33,7 @@ const FinalSurprise = () => {
     animate={{ scale: 1.1, opacity: 1 }}
     transition={{ duration: 1, delay: 1 }}
   >
-    Ekta
+    Anjali Saini
     <span className="absolute top-0 left-0 w-full h-full rounded-lg bg-pink-400 blur-xl opacity-50"></span>
   </motion.span>
   "
@@ -41,7 +41,7 @@ const FinalSurprise = () => {
 
 
       <motion.img
-        src="https://i.pinimg.com/736x/38/8f/f2/388ff2a055d53ede2537869ba18cc58b.jpg"
+        src="https://i.pinimg.com/736x/32/f9/eb/32f9eb757d034d3b545f9715bde44894.jpg"
         alt="Handwritten Note"
         className="w-80 my-6 shadow-lg rounded-lg"
         initial={{ opacity: 0, rotateY: 180 }}
